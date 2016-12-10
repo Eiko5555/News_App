@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="setting_order_label">
+        <item>@string/setting_type_label</item>
+        <item>@string/setting_orderby_sectionname_label</item>
+    </string-array>
+
+    <string-array name="setting_order_value">
+        <item>@string/setting_type_value</item>
+        <item>@string/setting_orderby_sectionname_value</item>
+    </string-array>
+
+</resources>
